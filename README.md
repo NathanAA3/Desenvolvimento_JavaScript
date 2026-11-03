@@ -8,8 +8,8 @@
 
 | # | Atividade | Descrição | Print |
 |---|-----------|-----------|------|
-| 20/10/26 | Prototipagem HTML Site | Aula focada na ferramente Visual Studio Code e HTML5 para a criaçã do nosso Primeito Site | [Referências](imgs/print_20_10_26) |
-| 27/10/26 | Criação do Portfólio Pessoal | Criação de Site para upload no Github Pages com foco no aprendizado e prática em HTML5 e CSS | [Referências](imgs/print_27_10_26) |
+| 20/10/26 | Prototipagem HTML Site | Aula focada na ferramente Visual Studio Code e HTML5 para a criaçã do nosso Primeito Site | ![Referências](imgs/print_20_10_26) |
+| 27/10/26 | Criação do Portfólio Pessoal | Criação de Site para upload no Github Pages com foco no aprendizado e prática em HTML5 e CSS | ![Referências](imgs/print_27_10_26) |
 
 * Site para Aula 27/10/2026 para a Avaliação 2
 
