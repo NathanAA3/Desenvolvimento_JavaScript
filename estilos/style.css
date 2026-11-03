@@ -87,6 +87,7 @@ body {
 .espaco_gostos{
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 200px;
   margin: 0;
 }
