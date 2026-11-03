@@ -1,4 +1,4 @@
-# 🍣 Meu_Primeiro_Site 🍣 [logo](https://institucional.uniceub.br/central-da-marca)
+# 🍣 Meu_Primeiro_Site 🍣 ![logo](https://institucional.uniceub.br/hubfs/BrandCenter/img/logo-ceub-versao-estendida.png)
 
 > [!IMPORTANT]
 > ### Referênciamento a Menção 2: https://docs.google.com/document/d/13P-JP0QKZs-dSaAzC7d56VLucEaJWut_c-fvA99y5Dk/edit?tab=t.0
