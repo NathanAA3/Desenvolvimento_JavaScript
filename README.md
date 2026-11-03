@@ -1,5 +1,13 @@
-# 🍣 Meu_Primeiro_Site 🍣 <img src='imgs/logo-ceub-versao-estendida.webp' alt='logo' height=5% width=15%></img>
-
+<table width="100%">
+  <tr>
+    <td align="left" valign="middle" style="border: none;">
+      <h2>🍣 Meu_Primeiro_Site 🍣</h2>
+    </td>
+    <td align="right" valign="middle" style="border: none;">
+      <img src="caminho-da-sua-logo-ceub.png" height="50">
+    </td>
+  </tr>
+</table>
 > [!IMPORTANT]
 > ### Referênciamento a Menção 2: https://docs.google.com/document/d/13P-JP0QKZs-dSaAzC7d56VLucEaJWut_c-fvA99y5Dk/edit?tab=t.0
 
