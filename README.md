@@ -1,7 +1,7 @@
 # Meu_Primeiro_Site
 
 ***
-![Intro](imgs/sea_monkey.gif)
+<img src='imgs/sea_monkey.gif' alt='gif_intro' height=50% width=50%></img>
 ***
 
 * Site para Aula 27/10/2026 para a Avaliação 2
