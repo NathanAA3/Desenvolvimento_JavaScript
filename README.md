@@ -1,5 +1,9 @@
 # Meu_Primeiro_Site
 
+***
+![Intro](https://i.redd.it/o3yebwvb4ekf1.gif.gif)
+***
+
 * Site para Aula 27/10/2026 para a Avaliação 2
 
 * Esse site é feito como um tipo de cartão de apresentação sobre mim.
