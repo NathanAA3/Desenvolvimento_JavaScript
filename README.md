@@ -1,7 +1,7 @@
 # Meu_Primeiro_Site
 
 ***
-![Intro](https://i.redd.it/o3yebwvb4ekf1.gif)
+![Intro](imgs/sea_monkey.gif)
 ***
 
 * Site para Aula 27/10/2026 para a Avaliação 2
