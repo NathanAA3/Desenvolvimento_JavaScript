@@ -1,4 +1,4 @@
-# 🍣 Meu_Primeiro_Site 🍣 <img src='(https://institucional.uniceub.br/hubfs/BrandCenter/img/logo-ceub-versao-estendida.png)' alt='gif_intro' height=20% width=100%></img>
+# 🍣 Meu_Primeiro_Site 🍣 <img href='(https://institucional.uniceub.br/hubfs/BrandCenter/img/logo-ceub-versao-estendida.png)' alt='logo' height=20% width=100%></img>
 
 > [!IMPORTANT]
 > ### Referênciamento a Menção 2: https://docs.google.com/document/d/13P-JP0QKZs-dSaAzC7d56VLucEaJWut_c-fvA99y5Dk/edit?tab=t.0
