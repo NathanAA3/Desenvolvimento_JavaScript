@@ -20,11 +20,11 @@
 | 20/10/26 | Prototipagem HTML Site | Aula focada na ferramente Visual Studio Code e HTML5 para a criaçã do nosso Primeito Site | ![Referências](imgs/print_20_10_26.png) |
 | 27/10/26 | Criação do Portfólio Pessoal | Criação de Site para upload no Github Pages com foco no aprendizado e prática em HTML5 e CSS | ![Referências](imgs/print_27_10_26.png) |
 
+
 ## 📁 Estrutura do Repositório
 
 - `imgs/`: Contém os arquivos de imagem/gif usados durante o desenvolvimento do projeto.
 
----
 
 ## 📜 Licença
 
