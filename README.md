@@ -1,4 +1,4 @@
-# Meu_Primeiro_Site
+# 🍣 Meu_Primeiro_Site 🍣
 
 ***
 <img src='imgs/sea_monkey.gif' alt='gif_intro' height=50% width=100%></img>
