@@ -65,6 +65,57 @@ body {
     height: 30px;
 }
 
+.icon_logo2 {
+    border: 2px solid #000;
+    border-radius: 10px;
+    width: 30px;
+    height: 30px;
+}
+
+
+
+
+
+
+
+/* ESPAÇO GOSTOS */
+
+.pages {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 5px;
+    background-color: greenyellow;
+    box-sizing: content-box;
+}
+
+.espaco_botoes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.bot-pages {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    margin-top: 15px;
+    width: 100%;
+    background-color: white;
+    border: 2px solid #1e293b;
+    color: #1e293b;
+    padding: 12px;
+    border-radius: 12px;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+
 
 
 
@@ -166,6 +217,9 @@ body {
 
 
 
+
+/* ESPAÇO FILMES */
+
 .titulo-filmes {
     justify-self: center;
 }
@@ -206,6 +260,8 @@ body {
 
 
 
+/* ESPAÇO DOCES */
+
 .titulo-doces {
     justify-self: center;
 }
@@ -224,6 +280,11 @@ body {
 
 
 
+
+
+
+
+/* FOOTER */
 
 
 footer {
@@ -259,4 +320,94 @@ footer {
 
 .integrantes strong {
     color: #1e293b;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* CALCULADORA */
+
+.calculadora_espaco { box-sizing: border-box; }
+
+.calculadora {
+ font-family: Arial, sans-serif;
+ margin: 0;
+ padding: 30px;
+}
+
+.container {
+ max-width: 500px;
+ margin: 40px auto;
+ padding: 30px;
+ background: white;
+ border-radius: 12px;
+ box-shadow: 0 4px 12px rgba(0,0,0,.10);
+}
+
+h1 { color: #43054e; text-align: center;}
+
+label { display: block; margin-top: 15px; }
+
+input {
+ width: 100%; padding: 12px; margin-top: 8px;
+ border: 1px solid #ccc; border-radius: 6px;
+ box-sizing: border-box;
+}
+
+button {
+ width: 100%; margin-top: 20px; padding: 12px;
+ background: #662c92; color: white;
+ border: 0; border-radius: 6px; cursor: pointer;
+}
+
+button:hover { background: #43054e; }
+
+#resultado {
+ margin-top: 20px; padding: 15px;
+ background: #f3f4f6; border-radius: 6px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* CALCULADORA MEDIA */
+
+.calculadora_media {
+ font-family: Arial, sans-serif;
+ margin: 0;
+ padding: 30px;
 }
