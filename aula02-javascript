@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+    <html lang="pt-BR">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Minha primeira aplicação</title>
+            <link rel="stylesheet" href="estilos/style.css">
+            <link rel="icon" type="imgs/webp" href="imgs/odyssey.png">
+        </head>
+
+
+    <!-- Outras Páginas -->
+
+    <body>
+
+        <header class="pages">
+            <img class="icon_logo2" src="imgs/settings.gif" alt="Logo">
+
+            <h1 class="titulo-doces">Minha primeira aplicação JavaScript</h1>
+
+            <img class="icon_logo2" src="imgs/settings.gif" alt="Logo">
+        </header>
+
+
+        <section class="espaco_botoes">
+            <button class="bot-pages" onclick="window.open('imgs/comprovante_codigo.png', '_blank')">
+                <img src="imgs/around-the-world.gif" width="24" height="24"> Códigos
+            </button>
+
+            <button class="bot-pages" onclick="window.open('imgs/comprovante_resultado.png', '_blank')">
+                <img src="imgs/around-the-world.gif" width="24" height="24"> Resultados
+            </button>
+
+        </section>
+
+        <hr class="divisor">
+
+        <footer>
+            <p class="marca-rodape">Turn Back &copy; 2026</p>
+
+            <div class="integrantes">
+                <span>Desenvolvido por:</span>
+                <strong>Nathan Victor</strong>
+            </div>
+
+        </footer>
