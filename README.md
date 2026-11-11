@@ -1,4 +1,4 @@
-# 🍣 Meu_Primeiro_Site 🍣                                                                                                                                                 <img src='imgs/logo-ceub-versao-estendida.webp' alt='logo' height=5% width=15%></img>
+# 🍣 Desenvolvimento JavaScript 🍣                                                                                                                                                 <img src='imgs/logo-ceub-versao-estendida.webp' alt='logo' height=5% width=15%></img>
 
 > [!IMPORTANT]
 > ### Referênciamento a Menção 2: https://docs.google.com/document/d/13P-JP0QKZs-dSaAzC7d56VLucEaJWut_c-fvA99y5Dk/edit?tab=t.0
