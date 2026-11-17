@@ -21,7 +21,8 @@
 | 20/10/26 | Prototipagem HTML Site | Aula focada na ferramenta Visual Studio Code e HTML5 para a criaçã do nosso Primeito Site | ![Referências](imgs/print_20_10_26.png) |
 | 27/10/26 | Criação do Portfólio Pessoal | Criação de Site para upload no Github Pages com foco no aprendizado e prática em HTML5 e CSS | ![Referências](imgs/print_27_10_26.png) |
 | 03/11/26 | Aprendizagem de JS e Update de ReadMe | Aula focada na correlação entre JavaScript e HTML e como podemos utiliza-lo para aprofundarmos nossos sites | ![Referências](imgs/print_03_11_26.png) |
-
+| 10/11/26 | Aplicação JavaScript | Aula prática sobre a aplicação de javascript em nossos arquivos HTMLs | ![Referências](imgs/print_10_11_26.png) |
+| 17/11/26 | Evolução e Revisão JavaScript | Aula especializada e Revisionada sobre como podemos melhorar nosso entendimento de JavaScript e seus diferentes usos | ![Referências](imgs/print_17_11_26.png) |
 
 ## 📁 Estrutura do Repositório
 
