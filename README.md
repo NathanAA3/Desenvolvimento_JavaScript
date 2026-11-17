@@ -26,6 +26,8 @@
 
 ## 📁 Estrutura do Repositório
 
+- `index.html`: HUB Principal do projeto.
+- `aula01-javascript.html`: Contém os arquivos os laboratórios feitos durante o desenvolvimento do projeto.
 - `imgs/`: Contém os arquivos de imagem/gif usados durante o desenvolvimento do projeto.
 
 
