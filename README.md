@@ -32,7 +32,7 @@
 
 ### HUB
 
-<img src='imgs/HUB-Principal.gif' alt='pagina_hub_exemplo' height=20% width=100%></img>
+<img src='imgs/HUB-Principal.png' alt='pagina_hub_exemplo' height=20% width=100%></img>
 
 ### Laboratório
 
