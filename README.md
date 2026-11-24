@@ -40,7 +40,7 @@
 <img src='imgs/Laboratório.png' alt='pagina_laboratório_exemplo' height=20% width=100%></img>
 
 
-### 🍗 GitHub Stats
+### 🍗 GitHub Status
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=NathanAA3&layout=compact&langs_count=8&theme=dark&card_width=800)
 
 ### ☕ Let's Connect
