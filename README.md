@@ -36,7 +36,7 @@
 ### Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/Nathan/(https://br.linkedin.com/in/nathan-victor-freitas-assun%C3%A7%C3%A3o-64abb0402)" target="_blank" rel="noopener" style="display:inline-block; text-decoration:none;"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:nathan.assuncao@sempreceub.com" style="display:inline-block; text-decoration:none;"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://br.linkedin.com/in/nathan-victor-freitas-assun%C3%A7%C3%A3o-64abb0402" target="_blank" rel="noopener" style="display:inline-block; text-decoration:none;"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:nathan.assuncao@sempreceub.com" style="display:inline-block; text-decoration:none;"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 
