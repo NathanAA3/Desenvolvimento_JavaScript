@@ -30,6 +30,16 @@
 - `aula01-javascript.html`: Contém os arquivos os laboratórios feitos durante o desenvolvimento do projeto.
 - `imgs/`: Contém os arquivos de imagem/gif usados durante o desenvolvimento do projeto.
 
+### HUB
+
+<img src='imgs/HUB-Principal.gif' alt='pagina_hub_exemplo' height=20% width=100%></img>
+
+### Laboratório
+
+
+<img src='imgs/Laboratório.png' alt='pagina_laboratório_exemplo' height=20% width=100%></img>
+
+
 ### GitHub Stats
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=NathanAA3&layout=compact&langs_count=8&theme=dark&card_width=800)
 
