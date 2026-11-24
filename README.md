@@ -30,20 +30,20 @@
 - `aula01-javascript.html`: Contém os arquivos os laboratórios feitos durante o desenvolvimento do projeto.
 - `imgs/`: Contém os arquivos de imagem/gif usados durante o desenvolvimento do projeto.
 
-### HUB
+### 🌐 HUB
 
 <img src='imgs/HUB-Principal.png' alt='pagina_hub_exemplo' height=20% width=100%></img>
 
-### Laboratório
+### 💻 Laboratório
 
 
 <img src='imgs/Laboratório.png' alt='pagina_laboratório_exemplo' height=20% width=100%></img>
 
 
-### GitHub Stats
+### 🍗 GitHub Stats
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=NathanAA3&layout=compact&langs_count=8&theme=dark&card_width=800)
 
-### Let's Connect
+### ☕ Let's Connect
 
 <p align="left">
   <a href="https://br.linkedin.com/in/nathan-victor-freitas-assun%C3%A7%C3%A3o-64abb0402" target="_blank" rel="noopener" style="display:inline-block; text-decoration:none;"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:nathan.assuncao@sempreceub.com" style="display:inline-block; text-decoration:none;"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
